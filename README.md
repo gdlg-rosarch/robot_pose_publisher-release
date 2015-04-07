@@ -1,3 +1,24 @@
+## robot_pose_publisher (jade) - 0.2.3-0
+
+The packages in the `robot_pose_publisher` repository were released into the `jade` distro by running `/usr/bin/bloom-release --rosdistro jade --track jade robot_pose_publisher --new-track` on `Tue, 07 Apr 2015 16:53:49 -0000`
+
+The `robot_pose_publisher` package was released.
+
+Version of package(s) in repository `robot_pose_publisher`:
+- upstream repository: https://github.com/WPI-RAIL/robot_pose_publisher.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.2.3-0`
+
+Versions of tools used:
+- bloom version: `0.5.19`
+- catkin_pkg version: `0.2.8`
+- rosdep version: `0.11.2`
+- rosdistro version: `0.4.2`
+- vcstools version: `0.1.36`
+
+
 ## robot_pose_publisher (indigo) - 0.2.3-0
 
 User `rctoris@RCT-DESKTOP` released the packages in the `robot_pose_publisher` repository into the `indigo` distro by running `/usr/bin/bloom-release robot_pose_publisher --track indigo --rosdistro indigo --new-track` on `Thu, 03 Apr 2014 16:47:32 -0000`
