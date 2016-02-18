@@ -1,3 +1,24 @@
+## robot_pose_publisher (indigo) - 0.2.4-0
+
+The packages in the `robot_pose_publisher` repository were released into the `indigo` distro by running `/usr/bin/bloom-release robot_pose_publisher --track indigo --rosdistro indigo` on `Thu, 18 Feb 2016 20:25:42 -0000`
+
+The `robot_pose_publisher` package was released.
+
+Version of package(s) in repository `robot_pose_publisher`:
+- upstream repository: https://github.com/WPI-RAIL/robot_pose_publisher.git
+- release repository: https://github.com/gt-rail-release/robot_pose_publisher-release.git
+- rosdistro version: `0.2.3-0`
+- old version: `0.2.3-0`
+- new version: `0.2.4-0`
+
+Versions of tools used:
+- bloom version: `0.5.20`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.4`
+- rosdistro version: `0.4.2`
+- vcstools version: `0.1.38`
+
+
 ## robot_pose_publisher (hydro) - 0.2.4-0
 
 The packages in the `robot_pose_publisher` repository were released into the `hydro` distro by running `/usr/bin/bloom-release robot_pose_publisher --track hydro --rosdistro hydro` on `Thu, 18 Feb 2016 20:20:31 -0000`
