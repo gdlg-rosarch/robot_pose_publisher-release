@@ -1,3 +1,26 @@
+## robot_pose_publisher (kinetic) - 0.2.4-0
+
+The packages in the `robot_pose_publisher` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --rosdistro kinetic --track kinetic robot_pose_publisher --new-track` on `Wed, 22 Jun 2016 17:11:08 -0000`
+
+The `robot_pose_publisher` package was released.
+
+Version of package(s) in repository `robot_pose_publisher`:
+
+- upstream repository: https://github.com/WPI-RAIL/robot_pose_publisher.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.2.4-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.21`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.4.7`
+- vcstools version: `0.1.38`
+
+
 ## robot_pose_publisher (jade) - 0.2.4-0
 
 The packages in the `robot_pose_publisher` repository were released into the `jade` distro by running `/usr/bin/bloom-release robot_pose_publisher --track jade --rosdistro jade` on `Thu, 18 Feb 2016 20:36:12 -0000`
